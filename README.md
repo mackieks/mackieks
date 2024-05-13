@@ -7,4 +7,4 @@
 **I'm currently working on:**
 
 ⚡ **thundervolt** - sw-controlled wii undervolting hat, in collaboration with [@loopj](https://github.com/loopj) <br>
-☕ **smc + rtc relocation flex** for WUP-50 Wii Us
+☕ **smc + rtc + 5ghz relocation flex** for WUP-50 Wii Us
