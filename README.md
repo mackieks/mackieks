@@ -7,5 +7,7 @@
 
 **I'm currently working on:**
 
+🟦 **kawaii** - world's smallest wii with CNC aluminum case <br>
+🥷 **shinobi scaler 2** - improved tv5725 scaler with undervolting <br>
 ⚡ **mjolnir** - companion BMS board for thundervolt <br>
 ☕ **smc + rtc + 5ghz relocation flex** for WUP-50 Wii Us
