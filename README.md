@@ -1,4 +1,4 @@
-**recent completed projects**
+**recently completed projects**
 
 🔶 **PS Hanami** - [link](https://news.google.com/search?q=ps%20hanami) <br>
 ⚡ **thundervolt** - [link](https://github.com/mackieks/thundervolt) <br>
