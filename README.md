@@ -9,6 +9,7 @@
 **currently working on:**
 
 🟦 **kawaii** - world's smallest wii with CNC aluminum case <br>
+🦐 **scampi** - truly universal video game console audio amp
 🧊 **cubeVGA** - ultimate GameCube analog video mod <br>
 ⚡ **mjolnir** - companion BMS board for thundervolt <br>
 ☕ **smc + rtc + 5ghz relocation flex** for WUP-50 Wii Us
