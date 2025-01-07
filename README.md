@@ -2,7 +2,7 @@
 
 🔶 **PS Hanami** - [link](https://news.google.com/search?q=ps%20hanami) <br>
 ⚡ **thundervolt** - [link](https://github.com/mackieks/thundervolt) <br>
-🥷 **shinobi scaler 2** - [link](https://github.com/mackieks/Shinobi-Scaler) <br>
+📺 **shinobi scaler 2** - [link](https://github.com/mackieks/Shinobi-Scaler) <br>
 ☕ **caféflex** - [link](https://github.com/mackieks/cafeFlex) <br>
 🗻 **fujiflex** - [link](https://github.com/mackieks/fujiflex)
 
