@@ -1,5 +1,6 @@
 **recently completed projects**
 
+🍈 **melonHD** - [link](https://github.com/mackieks/melonHD/)
 🔶 **PS Hanami** - [link](https://news.google.com/search?q=ps%20hanami) <br>
 ⚡ **thundervolt** - [link](https://github.com/mackieks/thundervolt) <br>
 📺 **shinobi scaler 2** - [link](https://github.com/mackieks/Shinobi-Scaler) <br>
