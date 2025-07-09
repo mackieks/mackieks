@@ -1,5 +1,6 @@
 **recently completed projects**
 
+🟦 **kawaii** - [link](https://github.com/mackieks/Kawaii) <br>
 🍈 **melonHD** - [link](https://github.com/mackieks/melonHD/) <br>
 🔶 **PS Hanami** - [link](https://news.google.com/search?q=ps%20hanami) <br>
 ⚡ **thundervolt** - [link](https://github.com/mackieks/thundervolt) <br>
@@ -9,7 +10,6 @@
 
 **currently working on:**
 
-🟦 **kawaii** - world's smallest wii with CNC aluminum case <br>
 🦐 **scampi** - truly universal video game console audio amp <br>
 🧊 **cubeVGA** - ultimate GameCube analog video mod <br>
 ⚡ **mjolnir** - companion BMS board for thundervolt <br>
