@@ -1,5 +1,6 @@
 **recently completed projects**
 
+🛹 **brc-lodmod** - [link](https://github.com/mackieks/brc-lodmod) <br>
 🟦 **kawaii** - [link](https://github.com/mackieks/Kawaii), [news](https://news.google.com/search?q=kawaii%20wii)<br>
 🍈 **melonHD** - [link](https://github.com/mackieks/melonHD/) <br>
 🔶 **PS Hanami** - [link](https://news.google.com/search?q=ps%20hanami) <br>
